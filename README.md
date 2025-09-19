@@ -1,4 +1,4 @@
-<img src="https://github.com/santa512/what-todo/public/project-preview.png?raw=true"></img>
+<img src="https://santa512.github.io/what-to-do/public/project-preview.png"></img>
 
 # What Todo - A simple to do list
 
